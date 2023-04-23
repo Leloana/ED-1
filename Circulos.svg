@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="-110 -110 600 500" xmlns="http://www.w3.org/2000/svg">
+	<circle cx="15.000000" cy="15.000000" r="10.000000" stroke="green" transform = "rotate (0.000000 15.000000 15.000000)" fill="blue" />
+	<circle cx="20.000000" cy="20.000000" r="10.000000" stroke="pink" transform = "rotate (0.000000 20.000000 20.000000)" fill="blue" />
+	<circle cx="10.000000" cy="10.000000" r="10.000000" stroke="blue" transform = "rotate (0.000000 10.000000 10.000000)" fill="blue" />
+	<circle cx="25.000000" cy="25.000000" r="10.000000" stroke="red" transform = "rotate (0.000000 25.000000 25.000000)" fill="blue" />
+	<circle cx="20.000000" cy="50.000000" r="10.000000" stroke="red" transform = "rotate (0.000000 20.000000 50.000000)" fill="green" />
+	<circle cx="50.000000" cy="25.000000" r="10.000000" stroke="red" transform = "rotate (0.000000 50.000000 25.000000)" fill="blue" />
+</svg>
